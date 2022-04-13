@@ -6,5 +6,7 @@ I did style the layout and look of this app but the overall idea and logic is fr
 
 https://www.udemy.com/user/adiune/
 
-I used this tool to create a interactive map in my other repo: https://github.com/ITguy2018/VermontMoviesDashboard
+Click below to see the app:
 
+
+https://easygeocodeapp.herokuapp.com/
