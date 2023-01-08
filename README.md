@@ -17,9 +17,7 @@ templates folder is the html
 
 The rest of the files are what Heroku needs in order to deploy to the web.
  
-    
-<h4> Click the link below to visit the application: </h4>
-<a href="https://easygeocodeapp.herokuapp.com/">Geo App</a>
+   
 
 
 Preview of the layout:
